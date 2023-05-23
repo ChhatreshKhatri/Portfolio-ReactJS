@@ -1,0 +1,85 @@
+/************ about Css ************/
+.about {
+    padding: 200px 0 50px 0;
+    position: relative;
+    height: auto;
+    text-align: center;
+  }
+  .about-bx {
+    background: #151515;
+    border-radius: 35px;
+    text-align: center;
+    padding: 25px 50px;
+    margin: 15px 0 50px 0px;
+  }
+  .about-bx a {
+    text-decoration: none;
+  }
+  .about h1 {
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    padding: 8px 10px;
+    background: linear-gradient(
+      90.21deg,
+      rgba(170, 54, 124, 0.5) -5.91%,
+      rgba(74, 47, 189, 0.5) 111.58%
+    );
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    font-size: 45px;
+    margin-bottom: 16px;
+    display: inline-block;
+  }
+  .about h2 {
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    padding: 8px 10px;
+    background: linear-gradient(
+      90.21deg,
+      rgba(170, 54, 124, 0.5) -5.91%,
+      rgba(74, 47, 189, 0.5) 111.58%
+    );
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    font-size: 35px;
+    margin-bottom: 16px;
+    display: inline-block;
+  }
+  .about h3 {
+    font-size: 35px;
+    font-weight: 500;
+    padding: 20px 0 10px 0;
+  }
+  .about p {
+    color: #b8b8b8;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    margin: none;
+    text-align: justify;
+  }
+  .about .techStack-lang img {
+    height: 60px;
+    width: auto;
+    max-width: 250px;
+    padding: 5px;
+  }
+  @media (max-width: 1024px) {
+    .about h1 {
+      font-size: 35px;
+    }
+  }
+  @media (max-width: 786px) {
+    .about h1 {
+      font-size: 40px;
+    }
+  }
+  @media (max-width: 425px) {
+    .about h1 {
+      font-size: 30px;
+    }
+    .about h2 {
+      font-size: 25px;
+    }
+    .about-bx {
+      padding: 25px 20px;
+    }
+  }

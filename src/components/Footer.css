@@ -1,0 +1,43 @@
+/************ Footer Css ************/
+.footer {
+    background-image: url("../assets/img/footer-bg.webp");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+  }
+  .footer .logo {
+    padding-top: 15px;
+    object-fit: cover;
+  }
+  .footer img {
+    width: 26%;
+  }
+  
+  .footer .social-icon {
+    padding: 8px;
+  }
+  
+  .footer p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #b8b8b8;
+    letter-spacing: 0.5px;
+    margin: 10px 0;
+  }
+  .footer .nameGradient {
+    background: linear-gradient(90.21deg, #aa367c -5.91%, #4a2fbd 111.58%);
+    background-clip: text;
+    color: transparent;
+    align-items: center;
+    margin: 0;
+    padding-top: 10px;
+    display: inline-flex;
+    font-size: calc(1.3rem + 0.6vw);
+    font-weight: 500;
+  }
+  @media (max-width: 767px) {
+    .name-copyright {
+      text-align: center;
+    }
+  }
