@@ -1,10 +1,7 @@
 /************ Footer Css ************/
 .footer {
-    background-image: url("../assets/img/footer-bg.webp");
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin-bottom: 0;
+    /* background-image: url("../assets/img/footer-bg.webp"); */
+    background: linear-gradient(to right, #7e1f2a2b, transparent,transparent,transparent,transparent, #7e1f2a2b);
   }
   .footer .logo {
     padding-top: 15px;
@@ -26,7 +23,12 @@
     margin: 10px 0;
   }
   .footer .nameGradient {
-    background: linear-gradient(90.21deg, #aa367c -5.91%, #4a2fbd 111.58%);
+    /* background: linear-gradient(90.21deg, #aa367c -5.91%, #4a2fbd 111.58%); */
+    background: linear-gradient(
+      90.21deg,
+      #7e1f2a -5.91%,
+      #ff4057 111.58%
+    );
     background-clip: text;
     color: transparent;
     align-items: center;

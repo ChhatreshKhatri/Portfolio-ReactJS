@@ -14,8 +14,8 @@
     padding: 8px 10px;
     background: linear-gradient(
       90.21deg,
-      rgba(170, 54, 124, 0.5) -5.91%,
-      rgba(74, 47, 189, 0.5) 111.58%
+      #7e1f2a44 -5.91%,
+      #ff405780 111.58%
     );
     border: 1px solid rgba(255, 255, 255, 0.5);
     margin-bottom: 16px;
@@ -81,10 +81,15 @@
     color: white;
   }
   .project .project-content a:hover {
-    background: linear-gradient(
+    /* background: linear-gradient(
       90.21deg,
       rgba(170, 54, 124, 0.5) -5.91%,
       rgba(74, 47, 189, 0.5) 111.58%
+    ); */
+    background: linear-gradient(
+      90.21deg,
+      #7e1f2a80 -5.91%,
+      #ff405780 111.58%
     );
     color: white;
   }

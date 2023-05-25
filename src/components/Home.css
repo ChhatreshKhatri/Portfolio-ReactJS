@@ -13,9 +13,14 @@
     padding: 8px 10px;
     background: linear-gradient(
       90.21deg,
+      #7e1f2a44 -5.91%,
+      #ff405780 111.58%
+    );
+    /* background: linear-gradient(
+      90.21deg,
       rgba(170, 54, 124, 0.5) -5.91%,
       rgba(74, 47, 189, 0.5) 111.58%
-    );
+    ); */
     border: 1px solid rgba(255, 255, 255, 0.5);
     font-size: 25px;
     margin-bottom: 16px;
@@ -86,10 +91,15 @@
     display: inline-block;
   }
   .banner .resume-button:hover {
-    background: linear-gradient(
+    /* background: linear-gradient(
       90.21deg,
       rgba(170, 54, 124, 0.5) -5.91%,
       rgba(74, 47, 189, 0.5) 111.58%
+    ); */
+    background: linear-gradient(
+      90.21deg,
+      #7e1f2a44 -5.91%,
+      #ff405780 111.58%
     );
     border: 1px solid rgba(255, 255, 255, 0.5);
   }
