@@ -42,14 +42,12 @@ function Projects() {
                 <a
                   target="_blank"
                   href="https://www.alibabacloud.com/blog/project-showcase-%7C-ramaa-creations_598812"
-                  rel="noreferrer"
                 >
                   Blog Link <img src={alibabaLink} alt="blog" />
                 </a>
                 <a
                   target="_blank"
                   href="http://w-58018-23029-15377.4724382204.sites.hkalimatch01.shopali.net/"
-                  rel="noreferrer"
                 >
                   Live Link
                   <img src={linkSvg} alt="link" />
@@ -71,7 +69,6 @@ function Projects() {
                 <a
                   target="_blank"
                   href="https://github.com/Chhatreshkhatri/stack-overflow-clone"
-                  rel="noreferrer"
                 >
                   Code Link
                   <img src={github} alt="github" />
@@ -79,7 +76,6 @@ function Projects() {
                 <a
                   target="_blank"
                   href="https://soclone.chhatreshkhatri.com/"
-                  rel="noreferrer"
                 >
                   Live Link <img src={linkSvg} alt="link" />
                 </a>
@@ -109,14 +105,12 @@ function Projects() {
                 <a
                   target="_blank"
                   href="https://github.com/Chhatreshkhatri/amazon-clone"
-                  rel="noreferrer"
                 >
                   Code Link <img src={github} alt="github" />
                 </a>
                 <a
                   target="_blank"
                   href="https://amazonclone.chhatreshkhatri.com/"
-                  rel="noreferrer"
                 >
                   Live Link
                   <img src={linkSvg} alt="link" />
@@ -138,7 +132,6 @@ function Projects() {
                 <a
                   target="_blank"
                   href="https://github.com/Chhatreshkhatri/MyChat"
-                  rel="noreferrer"
                 >
                   Code Link
                   <img src={github} alt="github" />

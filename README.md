@@ -52,9 +52,9 @@ The page will reload if you make edits.
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="src\assets\img\site-home.jpeg" width="960">
-  <img src="src\assets\img\site-about.jpeg" width="960">
-  <img src="src\assets\img\site-projects.jpeg" width="960">
+  <img src="https://raw.githubusercontent.com/Chhatreshkhatri/Portfolio-ReactJS/master/src/assets/img/site-home.jpeg" width="960">
+  <img src="https://raw.githubusercontent.com/Chhatreshkhatri/Portfolio-ReactJS/master/src/assets/img/site-about.jpeg" width="960">
+  <img src="https://raw.githubusercontent.com/Chhatreshkhatri/Portfolio-ReactJS/master/src/assets/img/site-projects.jpeg" width="960">
 
 </div>
 
