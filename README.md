@@ -27,8 +27,6 @@ This project was built using
 
 **📱 Fully Responsive**
 
-**📄 Single Page UI Zip [Link](https://github.com/Chhatreshkhatri/Portfolio/blob/master/Portfolio-old-single-page.zip)**  
-
 <br/> 
 
 ## Getting Started
