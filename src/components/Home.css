@@ -81,7 +81,7 @@
       transform: translateY(-20px);
     }
   }
-  .banner .resume-button {
+  .banner .resume-button,.social-button {
     font-weight: 700;
     padding: 8px 10px;
     background: #191919;
@@ -90,7 +90,7 @@
     margin: 25px 0 25px 0;
     display: inline-block;
   }
-  .banner .resume-button:hover {
+  .banner .resume-button:hover,.social-button:hover {
     /* background: linear-gradient(
       90.21deg,
       rgba(170, 54, 124, 0.5) -5.91%,

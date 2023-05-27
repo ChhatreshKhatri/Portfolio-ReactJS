@@ -87,7 +87,7 @@ function Home() {
               variant="primary"
               href="https://social.chhatreshkhatri.com/"
               target="_blank"
-              className="resume-button"
+              className="social-button"
             >
               <Globe />
               &ensp;Social Links
