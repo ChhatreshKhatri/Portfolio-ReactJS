@@ -142,7 +142,7 @@
     .banner .tagline {
       font-size: 20px;
     }
-    .banner .resume-button{
+    .banner .resume-button,.social-button{
       font-size: 20px;
     }
   }
