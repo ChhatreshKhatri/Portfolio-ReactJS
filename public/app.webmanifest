@@ -9,9 +9,14 @@
       "type": "image/svg+xml"
     },
     {
-      "src": "logo144.png",
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "apple-icon.png",
       "type": "image/png",
-      "sizes": "144x144"
+      "sizes": "180x180"
     }
   ],
   "start_url": ".",
