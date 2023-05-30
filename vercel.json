@@ -1,5 +1,11 @@
 {
     "github": {
-      "enabled": false
-    }
+      "silent": true,
+      "autoAlias": false
+    },
+    "git": {
+        "deploymentEnabled": {
+          "main": false
+        }
+      }
   }
