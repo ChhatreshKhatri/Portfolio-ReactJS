@@ -4,13 +4,13 @@
   "description": "Hi, I am Chhatresh Khatri B. Tech in CSE. Full stack Web-Developer and a self-motivated, initiative-taking, and an enthusiastic professional.",
   "icons": [
     {
-      "src": "favicon.svg",
+      "src": "icon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "favicon.ico",
-      "sizes": "16x16 32x32",
+      "src": "icon.ico",
+      "sizes": "16x16 32x32 48x48",
       "type": "image/x-icon"
     },
     {
